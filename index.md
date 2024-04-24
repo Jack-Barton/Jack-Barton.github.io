@@ -2,6 +2,4 @@ I am a Mechatronics Engineer at the University of Queensland. I have recently st
 
 ![Image of fast.ai logo](images/logo.png)
 
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+This blog template is from [fast.ai](https://www.fast.ai).
