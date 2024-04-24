@@ -8,3 +8,5 @@ Edit the `index.md` file to change the home page content.
 To add tabs at the top right add a `*.md` file to the `*.github.io` directory and add a title with the Tab name you want.
 
 ![Image of blog tabs](images/Blog_Tabs.png)
+
+Add posts by making a `*.md` file in the `_posts` directory with name format `yyyy-mm-dd-title.md`
