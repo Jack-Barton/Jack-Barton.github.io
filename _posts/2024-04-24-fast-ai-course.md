@@ -1,6 +1,7 @@
 # The Multiclass Classifier (CIFAR10 Classes)
 
 ## Is it a airplane, automobile, bird, cat, deer, dog, frog, horse, ship or truck?
+<img src="images/cifar10.webp"  width="30%" height="30%">
 
 The basic steps taken are as follows:
 1. Use DuckDuckGo to search for images of airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships and trucks
