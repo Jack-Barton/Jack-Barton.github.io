@@ -8,5 +8,6 @@ The basic steps taken are as follows:
 1. Fine-tune a pretrained neural network to recognise these groups (resnet18)
 1. Try running this model on a picture of an airplane and see if it works.
 
-A multiclass image classifier is a nural networks (NN) that can be passed the pixel values of an image and output a correlation percentage for each class summing to 1 across all the classes.
+A multiclass image classifier is a nural network (NN) that can be passed the pixel values of an image and output a correlation percentage for each class being analysed. 
+<img src="../images/nn.png"  width="30%" height="30%">
 
