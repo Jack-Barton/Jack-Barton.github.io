@@ -9,5 +9,6 @@ The basic steps taken are as follows:
 1. Try running this model on a picture of an airplane and see if it works.
 
 A multiclass image classifier is a nural network (NN) that can be passed the pixel values of an image and output a correlation percentage for each class being analysed. 
+
 <img src="../images/nn.png"  width="30%" height="30%">
 
