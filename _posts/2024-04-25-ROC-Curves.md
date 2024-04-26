@@ -1,8 +1,8 @@
 # ROC Curves
 Today I learned about ROC curves (receiver operating characteristic curves) for classiffication models.
 ## Why use ROC curves
-<img src="../images/Roc_curve.png"  width="30%" height="30%">
-![](/../images/Roc_curve.png "ROC Curve")
+
+![](../images/Roc_curve.png "ROC Curve")
 
 ROC curves show the quality of your classification model where, as the curve aproaches the top left corner it can be seen as a better 
 model as seen in the image above.
